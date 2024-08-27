@@ -1,0 +1,9 @@
+Install Flask: Use pip install Flask to install the Flask framework if not already installed.
+
+Create a Python File: Save the Flask code in a file, e.g., app.py.
+
+Open Terminal/Command Prompt: Navigate to the directory where the app.py file is located.
+
+Run the Application: Execute the command python app.py to start the Flask server.
+
+Access the Application: Open a web browser and go to http://localhost:5000/ to interact with the application.
