@@ -1,4 +1,4 @@
-# Flask User Data Capture
+# Flask-RAT-Simulator
 
 ## Overview
 This Flask application captures user information when they access the root endpoint and provides various functionalities related to user data.
